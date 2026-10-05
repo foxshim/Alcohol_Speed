@@ -1,7 +1,7 @@
 HEAD
 # alcohol_speed
 
-A new Flutter project.
+
 
 ## Getting Started
 
